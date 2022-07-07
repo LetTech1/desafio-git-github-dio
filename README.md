@@ -35,4 +35,4 @@ No GitHub é necessário se identificar, para que ele saiba quem realizou altera
 Caso você deseje clonar um projeto do github, isso é, baixar um projeto, podemos utilizar um comando:
 > git clone git@github.com:... (aqui você insere o link do projeto que seja copiar)
 
-## É isso pessoal, essas são algumas dicas que aprendemos no curso de git/github da dio. Caso você tenha interesse em realizar um curso para aprender mais sobre esse assunto, acesse o site da [DIO](https://www.dio.me/) e faça o curso [introdução ao Git e ao GitGub](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9)
+## É isso pessoal, essas são algumas dicas que aprendemos no curso de git/github da dio. Caso você tenha interesse em realizar um curso para aprender mais sobre esse assunto, acesse o site da [DIO](https://www.dio.me/) e procure por [introdução ao Git e ao GitGub](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9)
