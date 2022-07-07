@@ -2,8 +2,8 @@
 A criação desse projeto tem o intuito de colocar em prática alguns ensinamentos sobre Git e Github, apresentados pelos cursos da plataforma Dio.
 
 ## Instalação
-> Acesse o [site](https://git-scm.com/downloads) do Git e realize o download
-> Após realizar o download, é necessário executar o arquivo, assim, fazendo a instalação
+* Acesse o [site](https://git-scm.com/downloads) do Git e realize o download
+* Após realizar o download, é necessário executar o arquivo, assim, fazendo a instalação
 
 ## Diferença entre Git e GitHub
 De maneira simples, o Git é seu repositório local, isto é, com ele conseguimos gerar registros do nosso projeto mantendo o controle em quais arquivos foram alterados, quando foram alterados e por quem.
