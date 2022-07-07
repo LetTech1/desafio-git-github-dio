@@ -1,4 +1,4 @@
-# Resumo do curso de Git/Github 💻
+# Resumo do curso de Git/Github - Dio 💻
 A criação desse projeto tem o intuito de colocar em prática alguns ensinamentos sobre Git e Github, apresentados pelos cursos da plataforma Dio.
 
 ## Instalação
